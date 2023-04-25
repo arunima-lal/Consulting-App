@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,h2,h3,h4,h,h6{
+    font-family: 'Open Sans', sans-serif;
+font-weight: 800;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn a:hover{
+    text-decoration:none;
+}
+
+section {
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(54, 54, 54, 0.5), rgba(39, 39, 39, 0.5)),url('https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/3CTBL1hSCQjACVz3rnT9bn/87d8b7648ec959051aa1b72c0589e6a0/Businessman-pointing-at-executive-during-meeting-641970902_7952x5304.jpeg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000&h=');
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+  
+}
+.banner-content h1{
+    font-size: 80px;
+}
+.banner-content h6{
+    font-size: 20px;
+}
+.banner-content{
+   color: white;
+   margin-bottom: 50px;
+}
+
+.btn-1 {
+    color:white;
+    text-decoration: none;
+    background-color: rgb(247, 75, 75);
+    padding: 15px 30px;
+    border-radius: 30px;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.btn-1:hover{
+    color:black ;
+    background-color: rgb(223, 100, 100);
+}
+.btn-2 {
+    color:black;
+    text-decoration: none;
+    background-color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.btn-2:hover{
+    color:rgb(247, 75, 75);
+}
+
+.dropdown-item:hover{
+    color: white;
+background-color:rgb(247, 75, 75);
+}
+.nav-link{
+    color: rgb(4, 4, 78);
+    font-weight: 500;
+    background-color: white;
+}
+.nav-link:hover{
+    color:rgb(247, 75, 75);
+}
+.dropdown-toggle{
+    color:rgb(247, 75, 75);
+}
+
+.navbar{
+    background-color:white;
+    height: 70px;
+}
+.container img{
+    width: 200px;
+}
+
